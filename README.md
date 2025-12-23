@@ -1,8 +1,8 @@
-# Lucas Nascimento Hubner
+# 👨🏻‍💻 Lucas Nascimento Hubner
 
 **`Desenvolvedor Front-end`**
 
-### 🤖 Linguagens e Tecnologias
+### 👾 Linguagens e Tecnologias
 
 <img 
     align="left" 
