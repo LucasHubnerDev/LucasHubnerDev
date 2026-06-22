@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Lucas Nascimento Hubner
 
-**`Desenvolvedor Front-end`**
+**`Desenvolvedor FULL-STACK`**
 
 ### 👾 Linguagens e Tecnologias
 
@@ -59,4 +59,20 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.iconscout.com/icon/free/png-512/free-java-logo-icon-svg-download-png-2945017.png?f=webp&w=256" 
+/>
+<img 
+    align="left" 
+    alt="Arch" 
+    title="Arch"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://imgs.search.brave.com/V1K7qrlZDlodUfbhpR1tI9T3y8-E-jQVg0uwb1G26tg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/c3ZncmVwby5jb20v/c2hvdy8zNDkyOTYv/YXJjaC1saW51eC5z/dmc" 
 />
